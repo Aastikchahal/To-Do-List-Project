@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+
+
+
+# To-Do List Application
 
 
 A simple and responsive To-Do List application built using **React** and **Vite**. The app allows users to add, edit, delete, and mark tasks as completed. This project demonstrates the use of functional components, hooks, state management, and props in React.
@@ -11,6 +14,7 @@ A simple and responsive To-Do List application built using **React** and **Vite*
 - **Delete tasks**: Delete tasks from the list.
 - **Real-time updates**: The list updates dynamically as users interact with it.
 - **Responsive Design**: The app is styled to look good on both desktop and mobile devices.
+
 
 Technologies Used
 -React (Hooks and Functional Components)
@@ -26,3 +30,5 @@ Installation
 3-Install dependencies:npm install
 4-Run the development server:npm run dev
 5-Open your browser and go to -  http://localhost:3000 to view the app.  
+
+
