@@ -24,4 +24,4 @@ Installation
 2-Navigate to the project directory:cd To-Do-List-Project
 3-Install dependencies:npm install
 4-Run the development server:npm run dev
-5-Open your browser and go to -  http://localhost:3000 to view the app.
+5-Open your browser and go to -  http://localhost:3000 to view the app.  
