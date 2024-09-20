@@ -12,17 +12,3 @@ A simple and responsive To-Do List application built using **React** and **Vite*
 - **Real-time updates**: The list updates dynamically as users interact with it.
 - **Responsive Design**: The app is styled to look good on both desktop and mobile devices.
 
-Technologies Used
--React (Hooks and Functional Components)
--Vite (for development)
--CSS (for styling)
--JavaScript (for functionality)
-
-
-Installation 
-
-1-Clone the repository:git clone https://github.com/Aastikchahal/To-Do-List-Project.git
-2-Navigate to the project directory:cd To-Do-List-Project
-3-Install dependencies:npm install
-4-Run the development server:npm run dev
-5-Open your browser and go to -  http://localhost:3000 to view the app.  
